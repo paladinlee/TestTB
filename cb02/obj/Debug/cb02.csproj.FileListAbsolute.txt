@@ -1,0 +1,5 @@
+D:\ProjTest\cb02\cb02\cb02\bin\cb02.dll
+D:\ProjTest\cb02\cb02\cb02\bin\cb02.pdb
+D:\ProjTest\cb02\cb02\cb02\obj\Debug\cb02.dll
+D:\ProjTest\cb02\cb02\cb02\obj\Debug\cb02.pdb
+D:\ProjTest\cb02\cb02\cb02\obj\Debug\cb02.csprojResolveAssemblyReference.cache
